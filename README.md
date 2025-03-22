@@ -1,4 +1,4 @@
-# <p align="right"><img src="image/FBNeo_IPS_Taoenwen_2025.webp" height="4.5%" width="4.5%"></p> FBNeo IPS 项目
+# <p align="left"><img src="image/FBNeo_IPS_Taoenwen_2025.webp" height="10%" width="10%"></p> FBNeo IPS 项目
 [1] 项目中所有的 IPS 仅适用于最新官方 Windows 独立版本的 FBNeo, 不适用任何前端、后端、分支或其它模拟器
 
 [2] 获取最新 Windows FBNeo x86 的二进制文件请访问 https://github.com/finalburnneo/FBNeo/releases/download/latest/Windows.x32.zip
