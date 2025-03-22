@@ -1,4 +1,4 @@
-![test](image/FBNeo_IPS_Taoenwen_2025.webp) # FBNeo IPS 项目
+# FBNeo IPS 项目 ![test](image/FBNeo_IPS_Taoenwen_2025.webp) 
 
 
 [1] 项目中所有的 IPS 仅适用于最新官方 Windows 独立版本的 FBNeo, 不适用任何前端、后端、分支或其它模拟器
