@@ -1,4 +1,4 @@
-# FBNeo IPS 项目 <img src="image/FBNeo_IPS_Taoenwen_2025.webp" height="50%" width="50%" />
+# FBNeo IPS 项目 <img src="image/FBNeo_IPS_Taoenwen_2025.webp" height="10%" width="10%" />
 
 
 
