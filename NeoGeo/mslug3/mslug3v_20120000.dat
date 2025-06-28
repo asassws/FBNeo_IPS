@@ -1,10 +1,8 @@
 #define	IPS_NOT_PROTECT
+#include mslug3h
 
-green.neo-sma	mslug3h/mslug3h_relay_sma
-256-pg1.p1	mslug3h/mslug3h_relay_p1
-256-pg2.p2	mslug3h/mslug3h_relay_p2
 green.neo-sma	mslug3v/mslug3v_20120000_sma
-256-pg2.p2	mslug3v/mslug3v_20120000_p2
+256-pg2.p2		mslug3v/mslug3v_20120000_p2
 
 [en_US]
 Overall/Enhanced Violence - 20120000

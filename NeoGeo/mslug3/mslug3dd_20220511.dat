@@ -1,8 +1,6 @@
 #define	IPS_NOT_PROTECT
+#include mslug3h
 
-green.neo-sma	mslug3h/mslug3h_relay_sma
-256-pg1.p1	mslug3h/mslug3h_relay_p1
-256-pg2.p2	mslug3h/mslug3h_relay_p2
 green.neo-sma	mslug3dd/mslug3dd_20220511_sma
 256-pg1.p1	mslug3dd/mslug3dd_20220511_p1
 256-pg2.p2	mslug3dd/mslug3dd_20220511_p2
