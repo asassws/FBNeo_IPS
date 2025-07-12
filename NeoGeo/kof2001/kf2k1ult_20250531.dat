@@ -3,8 +3,8 @@
 #define	IPS_GRA1_EXPAND	0x3000000
 #define	IPS_SND1_EXPAND	0xC00000
 
-262-p1-08-e0.p1		kof2001h/kof2001h_relay_p1
-262-p2-08-e0.sp2	kof2001h/kof2001h_relay_sp2
+#include kof2001h
+
 262-p1-08-e0.p1		kf2k1ult/kf2k1ult_20250531_p1
 262-p2-08-e0.sp2	kf2k1ult/kf2k1ult_20250531_sp2
 262-c1-08-e0.c1		kf2k1ult/kf2k1ult_20250531_c1
